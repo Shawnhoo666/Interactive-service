@@ -4,4 +4,16 @@ class shawn{
 		System.out.printf("hi this is newdt !!!!");
 		System.out.printf("2222222222222222222!!!!");
 	}
+
+	public void main1(String args[]){
+		System.out.printf("1111111111111111111!!!!");
+		System.out.printf("hi this is newdt !!!!");
+		System.out.printf("2222222222222222222!!!!");
+	}
+
+	public void main2(String args[]){
+		System.out.printf("1111111111111111111!!!!");
+		System.out.printf("hi this is newdt !!!!");
+		System.out.printf("2222222222222222222!!!!");
+	}
 }
